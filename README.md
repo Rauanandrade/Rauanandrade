@@ -27,4 +27,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+[![rauanandrade](https://github-readme-stats.vercel.app/api?username=rauanandrade&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![rauanandrade](https://github-readme-stats.vercel.app/api/top-langs/?username=rauanandrade&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
