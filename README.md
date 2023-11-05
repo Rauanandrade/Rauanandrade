@@ -6,7 +6,7 @@
 
 ## Rede sociais
 
-<p <a href="https://www.linkedin.com/in/rau%C3%A3-andrade/" alt="LinkedIn">
+<p <a href="https://www.linkedin.com/in/rauã-andrade/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rau%C3%A3-andrade/" /></a>
 
   <a href="https://www.instagram.com/raua.andrade" alt="Instagram">
