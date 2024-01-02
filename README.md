@@ -25,9 +25,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ---
-
-## ⭐ Informações sobre minha conta GitHub
-
-[![rauanandrade](https://github-readme-stats.vercel.app/api?username=rauanandrade&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![rauanandrade](https://github-readme-stats.vercel.app/api/top-langs/?username=rauanandrade&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
